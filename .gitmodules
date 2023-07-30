@@ -1,0 +1,8 @@
+[submodule "yahooquery"]
+	path = yahooquery
+	url = git@github.com:dpguthrie/yahooquery.git
+	branch = feat/set-cookie-and-crumb
+[submodule "yfinance"]
+	path = yfinance
+	url = git@github.com:yiyinglai/yfinance.git
+	branch = hotfix/proxy
